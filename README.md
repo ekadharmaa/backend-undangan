@@ -26,12 +26,6 @@ php saya play
 
 ## Deployment on vercel
 
-- Clone or download this repository
-
-    ```bash
-    git clone https://github.com/dewanakl/undangan-api.git
-    ```
-
 - Install package
 
     ```bash
