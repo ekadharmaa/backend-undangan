@@ -1,4 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/dewanakl/Kamu/main/public/kamu.png" width="200" alt="kamu"></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/kamu/framework"><img src="https://img.shields.io/packagist/dt/kamu/framework" alt="Total Downloads"></a>
@@ -97,9 +96,6 @@ php saya play
 
 I'm very open to those of you who want to contribute to Kamu framework!
 
-## Security Vulnerabilities
-
-If you find a security vulnerability in this Kamu, please email DKL via [dewanakretarta29@gmail.com](mailto:dewanakretarta29@gmail.com).
 
 ## License
 
